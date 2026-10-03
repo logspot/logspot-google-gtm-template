@@ -1,3 +1,5 @@
 homepage: "https://www.logspot.io"
 documentation: "https://www.logspot.io/docs/integrations/google-tag-manager"
-versions: []
+versions:
+  - sha: 639e1dd759cffe3edb49b098b092446eaf048e8d
+    changeNotes: Initial version.
